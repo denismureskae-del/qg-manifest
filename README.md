@@ -1,6 +1,5 @@
 # qg-manifest
 entry point
-## entry
 
 ## entry
 
